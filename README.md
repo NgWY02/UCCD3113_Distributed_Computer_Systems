@@ -1,3 +1,3 @@
 # UCCD3113_Distributed_Computer_Systems
 
-# Smart Attendance System - still in progress
+Smart Attendance System - still in progress
